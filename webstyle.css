@@ -248,6 +248,11 @@ h3 {
     font-size: 30px;
 }
 
+.img1 {
+    text-align: center;
+    margin: 20px 20px 20px 1000px;
+}
+
 .mymusic {
     background-color: #95BF74;
     background-size: cover;
@@ -260,7 +265,7 @@ h3 {
 
 .videos {
     text-align: center;
-    font-size: 200%;
+    font-size: 500%;
 }
 
 @media screen and (max-width: 400px) {
