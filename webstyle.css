@@ -250,7 +250,13 @@ h3 {
 
 .img1 {
     text-align: center;
-    margin: 20px 20px 20px 1000px;
+    margin: 20px 20px 20px 625px;
+}
+
+.text1 {
+    font-size: 25px;
+    font-family: 標楷體;
+    text-align: center;
 }
 
 .mymusic {
@@ -265,7 +271,7 @@ h3 {
 
 .videos {
     text-align: center;
-    font-size: 500%;
+    font-size: 200%;
 }
 
 @media screen and (max-width: 400px) {
